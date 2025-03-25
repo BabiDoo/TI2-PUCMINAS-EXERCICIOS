@@ -1,1 +1,2 @@
-# TI2-PUCMINAS-
+# TI2-PUCMINAS
+##Exercícios individuais
